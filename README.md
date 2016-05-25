@@ -7,6 +7,7 @@ Output: classification of statements based on their operators and data types of 
 Example output: test.cpp
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 Statement classification based on computation
 
 17 – the number of arithmetic
@@ -30,6 +31,7 @@ Statement classification based on data types
 0 – the number of statements with containers (stack, array, list, queue)
 
 127 – the number of statements with user defined data types
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Setup: Download srcml http://www.srcml.org/ to a folder named src2srcml
